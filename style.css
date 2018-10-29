@@ -1,5 +1,5 @@
 body{
-  background-color:green;
+  background-color:forestgreen;
 }
 p{
   font-family: "Times New Roman", Times, serif;
@@ -7,7 +7,7 @@ p{
 h1 {
   font-size: 40px;
   font-family: "Arial", Times, serif;
-  font-color:LightSlateGray ;
+  background-color:LightSlateGray ;
   text-decoration: underline;
 }
 
