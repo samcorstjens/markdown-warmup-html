@@ -1,11 +1,11 @@
 body{
-  background-color:forestgreen;
+  background-color:#32CD32;
 }
 h1 {
   text-align: center;
   font-size: 40px;
   font-family: "Arial", Times, serif;
-  background-color:LightSlateGray ;
+  background-color:#778899;
   text-decoration: underline;
 }
 h2{
