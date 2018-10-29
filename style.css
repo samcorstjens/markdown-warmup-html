@@ -2,6 +2,7 @@ body{
   background-color:forestgreen;
 }
 h1 {
+  text-align: center;
   font-size: 40px;
   font-family: "Arial", Times, serif;
   background-color:LightSlateGray ;
