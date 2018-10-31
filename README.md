@@ -1,1 +1,1 @@
-[a link](https://github.com/samcorstjens/markdown-warmup-html/blob/master/Index.html)
+[a link](https://samcorstjens.github.io/markdown-warmup-html/)
